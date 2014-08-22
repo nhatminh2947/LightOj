@@ -1,0 +1,20 @@
+Case 1: 101 101
+divisible
+Case 2: 0 67
+divisible
+Case 3: 101 101
+divisible
+Case 4: 7678123668327637674887634 101
+not divisible
+Case 5: 11010000000000000000 256
+divisible
+Case 6: 202202202202000202202202 101
+divisible
+Case 7: 0 1
+divisible
+Case 8: 1 1
+divisible
+Case 9: 3 2
+not divisible
+Case 10: 0 2
+divisible

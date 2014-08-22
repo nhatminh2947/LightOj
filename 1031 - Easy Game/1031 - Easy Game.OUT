@@ -1,0 +1,146 @@
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 2 rg = 4
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 1
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 4 rg = 4
+i = 1 lf = 4 rg = 4 ----> i = 0 lf = 4 rg = 3
+i = 1 lf = 4 rg = 4 ----> i = 0 lf = 4 rg = 3
+ans = -19
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 5 rg = 4
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 3 rg = 3
+i = 1 lf = 3 rg = 3 ----> i = 0 lf = 3 rg = 2
+i = 1 lf = 3 rg = 3 ----> i = 0 lf = 3 rg = 2
+ans = -26
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 3 rg = 2
+ans = 7
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 2
+i = 0 lf = 4 rg = 4 ----> i = 1 lf = 5 rg = 4
+i = 0 lf = 4 rg = 4 ----> i = 1 lf = 4 rg = 3
+ans = -19
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 3
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 3
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 3 rg = 3
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 4 rg = 3
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 2 rg = 2
+i = 1 lf = 2 rg = 2 ----> i = 0 lf = 2 rg = 1
+i = 1 lf = 2 rg = 2 ----> i = 0 lf = 2 rg = 1
+ans = -6
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 2 rg = 1
+ans = 20
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 2
+i = 0 lf = 2 rg = 2 ----> i = 1 lf = 3 rg = 2
+i = 0 lf = 2 rg = 2 ----> i = 1 lf = 2 rg = 1
+ans = -6
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 1
+ans = -45
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 3 rg = 4
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 2
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 3
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 3
+i = 0 lf = 3 rg = 3 ----> i = 1 lf = 4 rg = 3
+i = 0 lf = 3 rg = 3 ----> i = 1 lf = 3 rg = 2
+ans = -26
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 2
+ans = -45
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 4 rg = 4
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 5 rg = 4
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 3
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 0
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 1
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 2
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 2
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 2 rg = 2
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 3 rg = 2
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 1 rg = 1
+i = 1 lf = 1 rg = 1 ----> i = 0 lf = 1 rg = 0
+i = 1 lf = 1 rg = 1 ----> i = 0 lf = 1 rg = 0
+ans = 4
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 1 rg = 0
+ans = 10
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 1
+i = 0 lf = 1 rg = 1 ----> i = 1 lf = 2 rg = 1
+i = 0 lf = 1 rg = 1 ----> i = 1 lf = 1 rg = 0
+ans = 4
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 0
+ans = -32
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 2
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 0
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 1
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 1
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 0
+ans = -6
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 1
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 0
+ans = 49
+49
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 2 rg = 4
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 1
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 4 rg = 4
+i = 1 lf = 4 rg = 4 ----> i = 0 lf = 4 rg = 3
+i = 1 lf = 4 rg = 4 ----> i = 0 lf = 4 rg = 3
+ans = 10
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 5 rg = 4
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 3 rg = 3
+i = 1 lf = 3 rg = 3 ----> i = 0 lf = 3 rg = 2
+i = 1 lf = 3 rg = 3 ----> i = 0 lf = 3 rg = 2
+ans = 6
+i = 0 lf = 3 rg = 4 ----> i = 1 lf = 3 rg = 2
+ans = 10
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 2
+i = 0 lf = 4 rg = 4 ----> i = 1 lf = 5 rg = 4
+i = 0 lf = 4 rg = 4 ----> i = 1 lf = 4 rg = 3
+ans = 10
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 3
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 3
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 3 rg = 3
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 4 rg = 3
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 2 rg = 2
+i = 1 lf = 2 rg = 2 ----> i = 0 lf = 2 rg = 1
+i = 1 lf = 2 rg = 2 ----> i = 0 lf = 2 rg = 1
+ans = 3
+i = 0 lf = 2 rg = 3 ----> i = 1 lf = 2 rg = 1
+ans = 6
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 2
+i = 0 lf = 2 rg = 2 ----> i = 1 lf = 3 rg = 2
+i = 0 lf = 2 rg = 2 ----> i = 1 lf = 2 rg = 1
+ans = 3
+i = 1 lf = 2 rg = 4 ----> i = 0 lf = 2 rg = 1
+ans = 10
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 3 rg = 4
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 2
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 3
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 3
+i = 0 lf = 3 rg = 3 ----> i = 1 lf = 4 rg = 3
+i = 0 lf = 3 rg = 3 ----> i = 1 lf = 3 rg = 2
+ans = 6
+i = 1 lf = 3 rg = 4 ----> i = 0 lf = 3 rg = 2
+ans = 10
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 4 rg = 4
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 5 rg = 4
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 3
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 0
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 1
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 2
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 2
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 2 rg = 2
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 3 rg = 2
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 1 rg = 1
+i = 1 lf = 1 rg = 1 ----> i = 0 lf = 1 rg = 0
+i = 1 lf = 1 rg = 1 ----> i = 0 lf = 1 rg = 0
+ans = 1
+i = 0 lf = 1 rg = 2 ----> i = 1 lf = 1 rg = 0
+ans = 3
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 1
+i = 0 lf = 1 rg = 1 ----> i = 1 lf = 2 rg = 1
+i = 0 lf = 1 rg = 1 ----> i = 1 lf = 1 rg = 0
+ans = 1
+i = 1 lf = 1 rg = 3 ----> i = 0 lf = 1 rg = 0
+ans = 6
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 2
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 0
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 1
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 1
+i = 1 lf = 1 rg = 2 ----> i = 0 lf = 1 rg = 0
+ans = 3
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 1
+i = 0 lf = 1 rg = 4 ----> i = 1 lf = 1 rg = 0
+ans = 10
+10

@@ -1,0 +1,9 @@
+Case 1:
+Pushed in left: 1
+Pushed in left: 2
+Pushed in right: -1
+The queue is full
+Popped from left: 2
+Popped from right: -1
+Popped from left: 1
+The queue is empty
